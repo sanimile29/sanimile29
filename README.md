@@ -16,7 +16,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
 | Project | Description | Repository |
 |---------|-------------|------------|
 | OSINT Investigation | Conducted an OSINT investigation | https://github.com/sanimile29/osint-project|
-| Log Analysis | Analysed IIS and Windows event logs to identify attacks | Coming Soon |
+| Log Analysis | Analysed IIS and Windows event logs to identify attacks | https://github.com/sanimile29/malware-analysis |
 
 ## Skills
 ### Operating Systems
